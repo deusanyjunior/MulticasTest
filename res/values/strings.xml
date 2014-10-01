@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MulticasTest</string>
+    <string name="title_activity_main">MulticasTest</string>
+    <string name="device_interface">Interface:</string>
+    <string name="reload_interfaces">Reload</string>
+    <string name="ip">IP:</string>
+    <string name="port">Port:</string>
+    <string name="sender">Sender</string>
+    <string name="sender_on">Sender ON</string>
+    <string name="sender_off">Sender OFF</string>
+    <string name="receiver">Receiver</string>
+    <string name="receiver_on">Receiver ON</string>
+    <string name="receiver_off">Receiver OFF</string>
+    <string name="console">Console</string>
+    <string name="udp">UDP</string>
+    <string name="udp_on">UDP ON</string>
+    <string name="udp_off">UDP OFF</string>
+    <string name="invalid_ip">Invalid IP</string>
+    <string name="invalid_port">Invalid Port</string>
+    <string name="invalid_ip_port">Failed to start: Check IP and Port</string>
+    <string name="socket_exception">Socket exception</string>
+    <string name="msg_sent">Msg sent:</string>
+    <string name="sender_exception">Sender exception</string>
+    <string name="msg_received">Msg received:</string>
+    <string name="receiver_exception">Receiver exception</string>
+
+</resources>

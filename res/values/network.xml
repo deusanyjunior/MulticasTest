@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="default_ip" type="string">228.0.0.0</item>
+    <item name="default_port" type="integer">10000</item>
+</resources>
